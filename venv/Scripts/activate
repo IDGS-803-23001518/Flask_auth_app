@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\ytang\Documents\VisualStudio\Flask_auth_app\venv"
+VIRTUAL_ENV="C:\Users\ytang\OneDrive\Documentos\VisualStudio\Flask_auth_app\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
